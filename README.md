@@ -173,7 +173,7 @@ Cada grupo deverá:
 
 ---
 
-# 12. ESTRUTURA DO REPOSITÓRIO
+## 12. ESTRUTURA DO REPOSITÓRIO
 
 O repositório deverá seguir a seguinte organização:
 
