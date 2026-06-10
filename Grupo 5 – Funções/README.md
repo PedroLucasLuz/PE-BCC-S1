@@ -1,0 +1,24 @@
+# Funções 
+### Objetivo do repositório
+Com este repositório, você irá aprender o uso básico e médio de funções em todas as linguagens. 
+Por mais que os códigos neste repositório sejam apenas em python, você irá aprender a lógica das funções, possibilitando o aprendizado em todas as linguagens convencionais.
+
+### Conceito geral
+Uma função é um bloco de código reutilizável que executa uma tarefa específica. Isso serve para evitar que tenha repetições de blocos de código dentro de seu proeto, ficando mais fácil de gerenciar e realizar manutenções. 
+
+Pense na função como uma pequena máquina de uma fábrica, que serve para fazer apenas uma tarefa. Você pega essa máquina e coloca onde você quiser dentro da fábrica, dessa forma, sempre que o produto chegar na área que está a máquina, a "função" da máquina será realizada. 
+
+### Declarações e Estruturas
+A declaração de uma função varia de linguagem para linguagem. Em python, para definir uma função, deve-se utilizar a palavra-chave  "def".
+
+A estrutura de uma função básica geralmente possui:
+Nome da função: que deixa claro o que ela faz.
+Parâmetro: uma variável que ela recebe sempre que chamada.
+Bloco de código: o que ela executa
+Retorno: O resultado que ela devolve para quem ela chamou
+
+### Exemplos
+Essas funções básicas estão em tudo que é tecnológico, como por exemplo um NPC de um jogo, que ao chegar perto e apertar "E" para interagir com ele irá chamar uma função:
+
+(Linguagem Python)
+#### [Exemplo 1](/Grupo%205%20–%20Funções/Exemplos/exemplo1.py)
