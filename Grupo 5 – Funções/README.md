@@ -22,3 +22,7 @@ Essas funções básicas estão em tudo que é tecnológico, como por exemplo um
 
 (Linguagem Python)
 #### [Exemplo 1](/Grupo%205%20–%20Funções/Exemplos/exemplo1.py)
+
+
+Este exemplo mostra que nem sempre é necessário a utilização do return na função.
+#### [Exemplo 2](/Grupo%205%20–%20Funções/Exemplos/exemplo2.py)
