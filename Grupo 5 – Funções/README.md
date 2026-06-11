@@ -28,6 +28,12 @@ Este exemplo mostra que nem sempre é necessário a utilização do return na fu
 #### [Exemplo 2](/Grupo%205%20–%20Funções/Exemplos/exemplo2.py)
 
 
+### Função (Avançado)
+
+---
+
+### Exercícios
+
 ---
 
 ### Colaboradores
@@ -35,17 +41,13 @@ Este exemplo mostra que nem sempre é necessário a utilização do return na fu
 <img src="https://github.com/NiceNisson.png" width="75px">
 </a>
 
-[Emerson Elias](https://github.com/NiceNisson)
-
-Introduziu funções
+[Emerson Elias](https://github.com/NiceNisson): Introduziu funções
 
 <a href="https://github.com/Jerfesson-Nobre">
 <img src="https://github.com/Jerfesson-Nobre.png" width="75px">
 </a>
 
-[Jerferson Nobre](https://github.com/Jerfesson-Nobre)
-
-Desenvolveu funções
+[Jerferson Nobre](https://github.com/Jerfesson-Nobre): Desenvolveu funções
 
 
 
@@ -53,31 +55,23 @@ Desenvolveu funções
 <img src="https://github.com/joseelysson11-max.png" width="75px">
 </a>
 
-[José Elysson](https://github.com/joseelysson11-max)
-
-Desenvolveu o exercício e as respostas
+[José Elysson](https://github.com/joseelysson11-max): Desenvolveu o exercício e as respostas
 
 <a href="https://github.com/Gabriel-Nogueir">
 <img src="https://github.com/Gabriel-Nogueir.png" width="75px">
 </a>
 
-[Gabriel Nogueira](https://github.com/Gabriel-Nogueir)
-
-Desenvolveu o exercício e as respostas
+[Gabriel Nogueira](https://github.com/Gabriel-Nogueir): Desenvolveu o exercício e as respostas
 
 
 <a href="https://github.com/Hatt-Rick">
 <img src="https://github.com/Hatt-Rick.png" width="75px">
 </a>
 
-[Gabriel Rick](https://github.com/Hatt-Rick)
-
-Desenvolveu o roteiro
+[Gabriel Rick](https://github.com/Hatt-Rick): Desenvolveu o roteiro
 
 <a href="https://github.com/7u1zFelipe">
 <img src="https://github.com/7u1zFelipe.png" width="75px">
 </a>
 
-[Luiz Felipe](https://github.com/7u1zFelipe)
-
-Desenvolveu o roteiro
+[Luiz Felipe](https://github.com/7u1zFelipe): Desenvolveu o roteiro
