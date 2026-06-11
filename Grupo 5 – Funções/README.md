@@ -41,13 +41,13 @@ Este exemplo mostra que nem sempre é necessário a utilização do return na fu
 <img src="https://github.com/NiceNisson.png" width="75px">
 </a>
 
-[Emerson Elias](https://github.com/NiceNisson): Introduziu funções
+[Emerson Elias](https://github.com/NiceNisson)
 
 <a href="https://github.com/Jerfesson-Nobre">
 <img src="https://github.com/Jerfesson-Nobre.png" width="75px">
 </a>
 
-[Jerferson Nobre](https://github.com/Jerfesson-Nobre): Desenvolveu funções
+[Jerferson Nobre](https://github.com/Jerfesson-Nobre)
 
 
 
@@ -55,23 +55,23 @@ Este exemplo mostra que nem sempre é necessário a utilização do return na fu
 <img src="https://github.com/joseelysson11-max.png" width="75px">
 </a>
 
-[José Elysson](https://github.com/joseelysson11-max): Desenvolveu o exercício e as respostas
+[José Elysson](https://github.com/joseelysson11-max)
 
 <a href="https://github.com/Gabriel-Nogueir">
 <img src="https://github.com/Gabriel-Nogueir.png" width="75px">
 </a>
 
-[Gabriel Nogueira](https://github.com/Gabriel-Nogueir): Desenvolveu o exercício e as respostas
+[Gabriel Nogueira](https://github.com/Gabriel-Nogueir)
 
 
 <a href="https://github.com/Hatt-Rick">
 <img src="https://github.com/Hatt-Rick.png" width="75px">
 </a>
 
-[Gabriel Rick](https://github.com/Hatt-Rick): Desenvolveu o roteiro
+[Gabriel Rick](https://github.com/Hatt-Rick)
 
 <a href="https://github.com/7u1zFelipe">
 <img src="https://github.com/7u1zFelipe.png" width="75px">
 </a>
 
-[Luiz Felipe](https://github.com/7u1zFelipe): Desenvolveu o roteiro
+[Luiz Felipe](https://github.com/7u1zFelipe)
