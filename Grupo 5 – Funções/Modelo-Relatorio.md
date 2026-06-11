@@ -13,7 +13,15 @@
 
 # 1. Introdução
 
-A lógica de programação é essencial para o desenvolvimento de sistemas computacionais, e um de seus pilares para a organização, limpeza e reutilização de código é o conceito de "Funções". Neste projeto de extensão, nosso grupo ficou responsável por estudar e apresentar este tema de forma didática e acessível para iniciantes. O objetivo foi desmistificar a programação e facilitar o entendimento do público por meio de uma abordagem criativa. Para isso, desenvolvemos um vídeo, inspirado nas "tendências" da internet do tipo "Explicado por gatinhos". O trabalho foi conduzido por meio de pesquisas online, estruturação de roteiro, formulação de exercícios práticos e edição de vídeo.
+A lógica de programação é essencial para o desenvolvimento de sistemas computacionais, e para a organização, limpeza e reutilização de código as "Funções" são extremamente necessárias. 
+
+Neste projeto de extensão, nosso grupo ficou responsável por estudar e apresentar este tema de forma acessível para iniciantes. 
+
+O objetivo foi facilitar o entendimento do público sobre o assunto de uma forma criativa. 
+
+Para isso, desenvolvemos um vídeo, inspirado nas tendências "Explicado por gatinhos" na internet. 
+
+O trabalho foi conduzido por meio de pesquisas online, estruturação de roteiro, formulação de exercícios práticos e edição de vídeo.
 
 ---
 
@@ -21,9 +29,11 @@ A lógica de programação é essencial para o desenvolvimento de sistemas compu
 
 #### 2.1 Planejamento
 
-O início das atividades do projeto se deu no dia 09/06/26. A formação da equipe ocorreu de forma rápida, aproveitando o grupo já criado em trabalhos de outras disciplinas.
+A formação da equipe ocorreu de forma rápida, aproveitando o grupo já criado em trabalhos de outras disciplinas.
 
- Durante o planejamento, as responsabilidades foram divididas de acordo com as habilidades de cada um: Emerson Elias ficou responsável pela introdução do conteúdo; 
+Durante o planejamento, as responsabilidades foram divididas de acordo com o que cada um se sentia mais confortável em mexer: 
+
+Emerson Elias ficou responsável pela introdução do conteúdo; 
 
 Jerfesson Nobre focou no desenvolvimento da teoria principal do conteúdo;
 
