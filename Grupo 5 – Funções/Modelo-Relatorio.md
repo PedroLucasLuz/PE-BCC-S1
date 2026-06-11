@@ -1,72 +1,59 @@
-
 # Relatório Final de Extensão
 
 ### Dados do Grupo
 
-| Item                | Informação             |
-| ------------------- | ---------------------- |
-| Tema                |Funções                 |
-| Integrantes         |Elias, Jerfesson, Rick, Nogueira, Elysson, Luiz Felipe|
-| Professor           | Prof. Pedro Lucas Luz  |
-| Período de execução |09/06/26 - ...|
+| Item | Informação |
+| --- | --- |
+| Tema | Funções |
+| Integrantes | Emerson Elias, Jerfesson Nobre, José Elysson, Gabriel Nogueira, Gabriel Rick, Luiz Felipe |
+| Professor | Prof. Pedro Lucas Luz |
+| Período de execução | 09/06/26 a ... |
 
 ---
 
 # 1. Introdução
 
-Neste repositório você irá aprender sobre funções de forma geral, abrangendo a maioria das linguagens de programação.
-
-Dessa forma, você irá aprender a evitar repetições em seus codigos e facilitar na manutenção.
-
-Com o objetivo de ensinar as pessoas com dificuldades na programação, a linguagem simplificada consegue atingir varios publicos.
-
-O repositório foi desenvolvido utilizando o Codespace do github, linguagem python e html.
-
-## Exemplo
-
-> A lógica de programação constitui a base para o desenvolvimento de sistemas computacionais. Entre seus conceitos fundamentais estão as estruturas condicionais, responsáveis pela tomada de decisões em programas. Neste projeto, nosso grupo estudou e apresentou o tema "Estruturas Condicionais", produzindo materiais educativos e exemplos práticos para iniciantes. O trabalho foi desenvolvido por meio de pesquisas, elaboração de exercícios, implementação de exemplos em código e apresentação em uma live educativa aberta ao público.
+A lógica de programação é essencial para o desenvolvimento de sistemas computacionais, e um de seus pilares para a organização, limpeza e reutilização de código é o conceito de "Funções". Neste projeto de extensão, nosso grupo ficou responsável por estudar e apresentar este tema de forma didática e acessível para iniciantes. O objetivo foi desmistificar a programação e facilitar o entendimento do público por meio de uma abordagem criativa. Para isso, desenvolvemos um vídeo, inspirado nas "tendências" da internet do tipo "Explicado por gatinhos". O trabalho foi conduzido por meio de pesquisas online, estruturação de roteiro, formulação de exercícios práticos e edição de vídeo.
 
 ---
 
 # 2. Atividades Desenvolvidas
 
-## O que deve conter?
-
-### Sugestão de estrutura
-
 #### 2.1 Planejamento
 
-- O grupo foi formado através de outros trabalhos de extensao. 
-- Apos a formação do grupo, reunioes presenciais foram feitas para divisao das funções de cada integrante. O Grupo optou por utilizar: 
+O início das atividades do projeto se deu no dia 09/06/26. A formação da equipe ocorreu de forma rápida, aproveitando o grupo já criado em trabalhos de outras disciplinas.
 
-- o GitHub por facilidade de versionamento; 
-- Python como linguagem principal para exemplos;
-- DaVinci Resolve como ferramenta de edição de vídeos. 
+ Durante o planejamento, as responsabilidades foram divididas de acordo com as habilidades de cada um: Emerson Elias ficou responsável pela introdução do conteúdo; 
+
+Jerfesson Nobre focou no desenvolvimento da teoria principal do conteúdo;
+
+José Elysson e Gabriel Nogueira ficaram com a elaboração dos exercícios e de suas respostas; 
+
+Gabriel Rick e Luiz Felipe ficaram com o desenvolvimento do roteiro. 
+
+Luiz Felipe também assumiu a edição do vídeo, utilizando o software DaVinci Resolve.
 
 ---
 
 #### 2.2 Pesquisa e Estudo
 
-- Pesquisado e estudado sobre funções de forma lógica
-- Utilizado PDF's online e Video-Aulas
-- Utilizado ia e documentações online para aprofundamento.
-- Utilizado Instagram e TikTok para estudar sobre a estrutura da video-aula.
+O estudo da teoria para o roteiro e para os exercícios foi construída a partir de buscas detalhadas na internet. 
 
-Pesquisas e estudos foram feitos de formas individuais.
+O grupo utilizou materiais de estudos diversificados, consultando PDFs online, sites e videoaulas. 
+
+Isso permitiu que a equipe entendesse o conteúdo técnico para depois traduzi-lo para a linguagem simplificada para o vídeo.
 
 ---
 
 #### 2.3 Produção dos Materiais
 
-Explique:
+A teoria estudada por Emerson e Jerfesson, foi escrita de forma menos técnica no GitHub.
 
-* Como os slides foram elaborados;
-* Como os exercícios foram criados;
-* Como os exemplos de código foram desenvolvidos.
+Depois foi transformada por Gabriel Rick e Luiz Felipe em um roteiro leve e engraçado para o vídeo. 
 
-- Utilizado Instagram e Tiktok para realização do vídeo
-- ...
-- Desenvolvidos utilizando conhecimento próprio.
+José Elysson e Gabriel Nogueira criaram os exercícios práticos focados na teoria das funções para acompanharem o material. 
+
+Por fim, a montagem, sincronização e edição do vídeo foram executadas no DaVinci Resolve pelo Luiz Felipe.
 
 ---
 
@@ -78,8 +65,9 @@ Explique:
 * Como foi organizada a fala de cada integrante;
 * Quais ajustes foram necessários.
 
-- Foram realizados ... encontros até a entrega do trabalho.
-- Durante os encontros foram desenvolvidos o roteiro da video-aula, organização da documentação, melhora nos exercicios.
+#### Exemplo
+
+> Foram realizados dois encontros para ensaio da apresentação. Durante esses encontros foram feitos ajustes nos slides e definidos os momentos de participação de cada integrante.
 
 ---
 
@@ -91,9 +79,9 @@ Explique:
 * Participação dos integrantes;
 * Interação com o público.
 
-- Explicação realizada por meio do youtube
-- Contou com a participação dos membros responsáveis pelo roteiro
-- A linguagem simplória possibilita o entendimento por todos os espectadores.
+#### Exemplo
+
+> A live foi realizada por meio do Google Meet e contou com a participação de todos os integrantes do grupo. Foram apresentados conceitos fundamentais, exemplos práticos e exercícios resolvidos, além do esclarecimento de dúvidas dos participantes.
 
 ---
 
