@@ -30,6 +30,51 @@ Este exemplo mostra que nem sempre é necessário a utilização do return na fu
 
 ### Função (Avançado)
 
+Quando você já domina os conceitos básicos das funções de fazê-las responsáveis pelo trabalho repetitivo, pode-se explorá-las mais à fundo.
+
+##### Funções com retorno vs Sem retorno
+- Funções sem retorno (ou comumente chamadas de funções void): são funções que não devolvem diretamente um dado. É como pedir para alguém fechar uma porta, a pessoa vai lá, fecha e pronto, ela faz uma ação mas não retorna nada.
+- Funções com retorno: É uma função que além de rodar seu bloco de código, retorna um valor para quem chamou ela. É como comprar um produto online. Você espera que seu gasto de dinheiro _retorne_ um produto (por mais que ao invés de um celular, chegue um tijolo).
+
+##### Parâmetros opcionais
+Funções com parâmetros opcionais são funções que seus parâmetros têm valores fixos, assim quando você chamar esta função, não precisa preencher os parâmetros, evitando que o programa dê erro. 
+
+Imagine que você vai pedir um café e acaba esquecendo de dizer o tamanho, o atendente vai assumir que é o tamanho médio.
+
+> Exemplo em Python
+> def fazer_pedido(bebida, tamanho="Médio"):
+>   return f"Saindo um {bebida} no tamanho {tamanho}!"
+> # Chamando com os dois dados
+> print(fazer_pedido("Café Expresso", "Pequeno"))
+> 
+> # Chamando só com a bebida (ele vai usar o tamanho "Médio" por padrão)
+> print(fazer_pedido("Cappuccino"))
+
+##### Recursividade
+Uma função recursiva é uma função que chama a si mesma dentro do próprio código. É como aquelas bonecas russas, onde uma boneca menor sempre sai de dentro da outra.
+
+Para que esse tipo de função não entre em um looping infinito (o que causaria um crash no código ou no dispositivo), ela precisa de um "ponto de parada". É muitas vezes usada na matemática para calcular repetições ou padrões.
+> Exemplo em Python
+>def contagem_regressiva(numero):
+>    if numero <= 0: # Ponto de parada!
+>        print("Fogo!")
+>        return
+>    print(numero)
+>    contagem_regressiva(numero - 1) # Ela chama a si mesma, mas com um número menor
+>
+>contagem_regressiva(3)
+
+##### Funções Lambda
+As funções lambda (ou funções anônimas) são funções feitas para evitar o trabalho de ter que criar um bloco def inteiro para cada nova função.
+
+Normalmente são utilizadas para códigos tão simples, que ocupam apenas uma linha.
+
+> Exemplo em Python
+># Criando uma função em uma única linha para dobrar um valor
+>dobrar = lambda x: x * 2
+>
+>print(dobrar(5)) # Vai imprimir 10
+
 ---
 
 ### Exercícios
