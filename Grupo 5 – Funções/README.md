@@ -44,10 +44,10 @@ Imagine que você vai pedir um café e acaba esquecendo de dizer o tamanho, o at
 > Exemplo em Python
 > def fazer_pedido(bebida, tamanho="Médio"):
 >   return f"Saindo um {bebida} no tamanho {tamanho}!"
-> # Chamando com os dois dados
+> #Chamando com os dois dados
 > print(fazer_pedido("Café Expresso", "Pequeno"))
 > 
-> # Chamando só com a bebida (ele vai usar o tamanho "Médio" por padrão)
+> #Chamando só com a bebida (ele vai usar o tamanho "Médio" por padrão)
 > print(fazer_pedido("Cappuccino"))
 
 ##### Recursividade
@@ -56,11 +56,11 @@ Uma função recursiva é uma função que chama a si mesma dentro do próprio c
 Para que esse tipo de função não entre em um looping infinito (o que causaria um crash no código ou no dispositivo), ela precisa de um "ponto de parada". É muitas vezes usada na matemática para calcular repetições ou padrões.
 > Exemplo em Python
 >def contagem_regressiva(numero):
->    if numero <= 0: # Ponto de parada!
+>    if numero <= 0: #Ponto de parada!
 >        print("Fogo!")
 >        return
 >    print(numero)
->    contagem_regressiva(numero - 1) # Ela chama a si mesma, mas com um número menor
+>    contagem_regressiva(numero - 1) #Ela chama a si mesma, mas com um número menor
 >
 >contagem_regressiva(3)
 
@@ -70,7 +70,7 @@ As funções lambda (ou funções anônimas) são funções feitas para evitar o
 Normalmente são utilizadas para códigos tão simples, que ocupam apenas uma linha.
 
 > Exemplo em Python
-># Criando uma função em uma única linha para dobrar um valor
+>#Criando uma função em uma única linha para dobrar um valor
 >dobrar = lambda x: x * 2
 >
 >print(dobrar(5)) # Vai imprimir 10
