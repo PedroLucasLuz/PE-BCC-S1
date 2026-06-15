@@ -69,29 +69,13 @@ Por fim, a montagem, sincronização e edição do vídeo foram executadas no Da
 
 #### 2.4 Preparação da Apresentação
 
-Explique:
-
-* Quantos ensaios foram realizados;
-* Como foi organizada a fala de cada integrante;
-* Quais ajustes foram necessários.
-
-#### Exemplo
-
-> Foram realizados dois encontros para ensaio da apresentação. Durante esses encontros foram feitos ajustes nos slides e definidos os momentos de participação de cada integrante.
+O vídeo foi preparado por mensagens de textos enviadas no grupo do whatsapp e a dublagem foi feita com o envio de áudios no mesmo grupo. Sempre que uma parte do vídeo era finalizada, este trecho do vídeo era enviado para cada membro para ter diferentes opiniões sobre o que melhorar.
 
 ---
 
 #### 2.5 Realização da Live
 
-Explique:
-
-* Como ocorreu a apresentação;
-* Participação dos integrantes;
-* Interação com o público.
-
-#### Exemplo
-
-> A live foi realizada por meio do Google Meet e contou com a participação de todos os integrantes do grupo. Foram apresentados conceitos fundamentais, exemplos práticos e exercícios resolvidos, além do esclarecimento de dúvidas dos participantes.
+O Vídeo foi enviado para pedro e foi assistido---. Contou com a participação ativa de Gabriel Rick e Luiz Felipe, também contou com a participação indireta de todos os membros do grupo, em ajustes de roteiro e edição.
 
 ---
 
@@ -116,24 +100,13 @@ Você pode comentar:
 
 # 4. Utilização do GitHub
 
-## O que deve conter?
-
-Descreva como o GitHub foi utilizado durante o projeto.
-
-Explique:
-
-* Organização do repositório;
-* Controle de versões;
-* Colaboração entre integrantes;
-* Registro dos commits.
-
-## Exemplo
-
-> O GitHub foi utilizado para armazenar os materiais produzidos pelo grupo e registrar a evolução do projeto. Cada integrante realizou commits relacionados às suas atividades, permitindo acompanhar as contribuições individuais e manter o histórico de alterações.
+O GitHub foi uma importante ferramenta de divisão de tarefas, versionamento e organização na evolução do projeto. Cada integrante enviava suas mudanças e relizava commits relacionados à seu papel no grupo.
 
 ---
 
 # 5. Considerações Finais
+
+Muitos dos objetivos do projeto foi voltado ao entendimento do público sobre o assunto, tal qual este objetivo foi ---. A experiência deste projeto contibuiu com o entendimento e aprendizado sobre o conteúdo ensinado e para o desenvolvimento do trabalho em equipe, com comunicações constantes e divisão de tarefa. Além disso, o projeto nos permitiu compartilhar de forma facilitada os conhecimentos tecnológicos para a comunidade.
 
 ## O que deve conter?
 
@@ -153,6 +126,8 @@ Responda perguntas como:
 ---
 
 # 6. Evidências
+
+
 
 ## O que deve conter?
 
