@@ -1,7 +1,9 @@
 Fala, pessoal! Aqui está uma lista de exercícios para ajudar a fixar a matéria. A ideia é testar o que vocês entenderam sobre funções na lógica de programação, do básico ao mais avançado.
 
 
-**Como responder:** Nas questões de múltipla escolha, é só colocar um `x` dentro dos colchetes `[ ]`. Nas questões abertas, basta escrever sua resposta logo abaixo da pergunta.
+**Como responder:** Clique no ícone de copiar o arquivo (dois quadrados um em cima do outro) no canto superior direito do texto deste documento, após isso cole-o no seu editor de texto favorito. 
+
+Nas questões de múltipla escolha, é só colocar um x dentro dos colchetes [ ]. Nas questões abertas, basta escrever sua resposta logo abaixo da pergunta.
 
 
 ---
@@ -25,7 +27,7 @@ Fala, pessoal! Aqui está uma lista de exercícios para ajudar a fixar a matéri
 
 
 **3. O texto diz que uma função é parecida com uma "máquina de fábrica". Explique com as suas palavras por que isso faz sentido.**
-
+Sua resposta aqui:
 
 **4. Na estrutura de uma função, o que é o "Parâmetro"?**
 - [ ] A) É o resultado que a função devolve no final.
@@ -36,7 +38,7 @@ Fala, pessoal! Aqui está uma lista de exercícios para ajudar a fixar a matéri
 
 **5. Coisas do dia a dia:**
 Quando você chega perto de um NPC num jogo e aperta "E" para interagir com ele, o que o código do jogo faz por trás dos panos?
-
+Sua resposta aqui:
 
 **6. Verdadeiro ou Falso:**
 Na hora de dar nome para a função, a regra é que "o nome precisa deixar bem claro o que ela faz".
@@ -66,7 +68,7 @@ O texto dá dois exemplos do mundo real para explicar isso. Qual é a relação 
 
 
 **9. Usando o exemplo do texto, explique com suas próprias palavras como funciona uma função sem retorno (void).**
-
+Sua resposta aqui:
 
 **10. O que são "parâmetros opcionais"?**
 - [ ] A) São funções que você escolhe se quer rodar ou não.
@@ -77,11 +79,11 @@ O texto dá dois exemplos do mundo real para explicar isso. Qual é a relação 
 
 **11. O exemplo do café (Parâmetros opcionais):**
 Imagina que o cliente pede um café e esquece de falar o tamanho. Se o seu código **não** tiver um parâmetro opcional (ou padrão) para isso, o que deve acontecer com o programa?
-
+Sua resposta aqui:
 
 **12. Organizando o código:**
 Por que é melhor dividir um código gigante em várias funçõezinhas menores em vez de fazer tudo num blocão só?
-
+Sua resposta aqui:
 
 **13. Qual dessas frases sobre funções está ERRADA?**
 - [ ] A) O jeito de criar uma função muda dependendo da linguagem de programação.
@@ -118,7 +120,7 @@ Qual objeto o texto usa para explicar como uma função recursiva funciona na pr
 
 **17. O perigo do "Loop Infinito":**
 O texto avisa que funções recursivas precisam de um "ponto de parada". Se o programador esquecer de colocar isso, o que acontece com o código ou com o computador?
-
+Sua resposta aqui:
 
 **18. O que são "Funções Lambda"?**
 - [ ] A) São funções exclusivas de bancos de dados.
@@ -128,7 +130,7 @@ O texto avisa que funções recursivas precisam de um "ponto de parada". Se o pr
 
 
 **19. Pensando em deixar o código fácil de ler, por que seria uma péssima ideia tentar fazer um programa complexo inteiro usando SÓ Funções Lambda (de uma linha)?**
-
+Sua resposta aqui:
 
 **20. Desafio final:**
 Imagina que você tem que criar uma função para **"Calcular a Média de um Aluno"** e dizer se ele passou de ano ou reprovou. Escreva aqui embaixo:
