@@ -7,7 +7,7 @@ Fala, pessoal! Aqui está uma lista de exercícios para ajudar a fixar a matéri
 ---
 
 
-### Nível Fácil (O Básico)
+### Nível Fácil
 
 
 **1. De forma geral, o que é uma função na programação?**
@@ -54,7 +54,7 @@ Na hora de dar nome para a função, a regra é que "o nome precisa deixar bem c
 ---
 
 
-### Nível Médio (Colocando em Prática)
+### Nível Médio
 
 
 **8. Funções com retorno vs. Sem retorno (Void):**
@@ -98,7 +98,7 @@ Por que é melhor dividir um código gigante em várias funçõezinhas menores e
 ---
 
 
-### Nível Difícil (Para quebrar a cabeça)
+### Nível Difícil
 
 
 **15. O que é uma "Função Recursiva"?**
@@ -138,3 +138,7 @@ Imagina que você tem que criar uma função para **"Calcular a Média de um Alu
 
 
 ---
+
+## Gabarito
+
+#### [Gabarito](/Grupo%205%20–%20Funções/Exercícios/exercicio_respostas.md)

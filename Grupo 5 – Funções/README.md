@@ -64,6 +64,13 @@ Normalmente são utilizadas para códigos tão simples, que ocupam apenas uma li
 
 ### Exercícios
 
+Aqui está uma lista de exercícios que seguem uma dificuldade crescente para por em prática seus novos conhecimentos sobre funções. Ao final do exercício, você poderá ser redirecionado para o gabarito.
+
+#### [Exercícios](/Grupo%205%20–%20Funções/Exercícios/Exercícios.md)
+
+Os exercícios foram elabarados com o objetivo de cobrir todas as linguagens de programação possível, utilizando apenas da lógica das funções, assim, sempre que possível, volte para tentar resolver as questões que você acabou errando ou que acabou se esquecendo de suas respostas.
+
+
 ---
 
 ### Colaboradores
