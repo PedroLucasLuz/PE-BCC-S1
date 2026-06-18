@@ -7,7 +7,7 @@
 | Tema | Funções |
 | Integrantes | Emerson Elias, Jerfesson Nobre, José Elysson, Gabriel Nogueira, Gabriel Rick, Luiz Felipe |
 | Professor | Prof. Pedro Lucas Luz |
-| Período de execução | 09/06/26 a ... |
+| Período de execução | 09/06/26 a 18/06/2026 |
 
 ---
 
@@ -81,20 +81,7 @@ O Vídeo foi enviado para pedro e foi assistido---. Contou com a participação 
 
 # 3. Resultados Obtidos
 
-## O que deve conter?
-
-Apresente os resultados alcançados pelo grupo.
-
-Você pode comentar:
-
-* Conhecimentos adquiridos;
-* Habilidades desenvolvidas;
-* Dificuldades encontradas;
-* Soluções adotadas.
-
-## Exemplo
-
-> O projeto permitiu ampliar os conhecimentos sobre estruturas condicionais e melhorar habilidades de comunicação e trabalho em equipe. A principal dificuldade encontrada foi simplificar conceitos técnicos para um público iniciante, desafio que foi superado por meio da utilização de exemplos do cotidiano e analogias.
+O Projeto permitiu com que os membros do grupo e pessoas da comunidade adquirissem o conhecimento sobre funções dentro da lógica de programação. A comunicação entre a equipe obteve uma melhora significativa. A principal dificuldade encontrada foi a produção da video-aula, que muitas vezes estava com menos tempo que o necessário, mas que rapidamente foi solucionado inserindo trechos com maior interação com o público.
 
 ---
 
@@ -106,48 +93,20 @@ O GitHub foi uma importante ferramenta de divisão de tarefas, versionamento e o
 
 # 5. Considerações Finais
 
-Muitos dos objetivos do projeto foi voltado ao entendimento do público sobre o assunto, tal qual este objetivo foi ---. A experiência deste projeto contibuiu com o entendimento e aprendizado sobre o conteúdo ensinado e para o desenvolvimento do trabalho em equipe, com comunicações constantes e divisão de tarefa. Além disso, o projeto nos permitiu compartilhar de forma facilitada os conhecimentos tecnológicos para a comunidade.
-
-## O que deve conter?
-
-Apresente uma reflexão sobre a experiência vivenciada.
-
-Responda perguntas como:
-
-* O projeto atingiu os objetivos?
-* O que foi aprendido?
-* Qual a importância do tema?
-* Qual a contribuição da atividade para a formação acadêmica?
-
-## Exemplo
-
-> Os objetivos propostos foram alcançados com sucesso. A experiência contribuiu para o aprofundamento dos conhecimentos em lógica de programação e para o desenvolvimento de competências relacionadas à comunicação, colaboração e resolução de problemas. Além disso, o projeto demonstrou a importância de compartilhar conhecimentos tecnológicos de forma acessível para a comunidade.
+Muitos dos objetivos do projeto foi voltado ao entendimento do público sobre o assunto, tal qual este objetivo foi alcançado com sucesso. A experiência deste projeto contibuiu com o entendimento e aprendizado sobre o conteúdo ensinado e para o desenvolvimento do trabalho em equipe, com comunicações constantes e divisão de tarefa. Além disso, o projeto nos permitiu compartilhar de forma facilitada os conhecimentos tecnológicos para a comunidade.
 
 ---
 
 # 6. Evidências
 
-
-
-## O que deve conter?
-
-Inserir ou anexar:
-
-* Capturas de tela das reuniões;
-* Capturas de tela dos commits;
-* Fotos ou prints da apresentação;
-* Link do repositório GitHub;
-* Link da gravação da live.
-
 | Evidência        | Link |
 | ---------------- | ---- |
-| GitHub           |      |
-| Slides           |      |
-| Live             |      |
-| Pasta de imagens |      |
+| GitHub           |   [GitHub](https://github.com/PedroLucasLuz/PE-BCC-S1/tree/feature/Funcoes-G5)  |
+| Video           |      |
+| Pasta de imagens |  [Pasta da Imagem](/Grupo%205%20–%20Funções/Evidencias/)    |
 
 ---
 
 # 7. Anexos (Opcional)
 
-Inserir imagens, gráficos, prints de código ou qualquer outro material complementar que ajude a documentar a execução do projeto.
+...
