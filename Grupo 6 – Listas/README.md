@@ -30,6 +30,8 @@ O objetivo deste projeto de extensão é promover o aprendizado de conteúdos re
 
 - [O que são listas?](#o-que-são-listas)
 - [Armazenamento de múltiplos valores](#armazenamento-de-múltiplos-valores)
+- [Outros exemplos de estruturas de dados parecidas com as listas são:](#Outros-exemplos-de-estruturas-de-dados-parecidas-com-as-listas-são:)
+- [Outros comandos usados:](#Outros-comandos-usados:)
 - [Acesso por índices](#acesso-aos-elementos-de-uma-lista-por-índice)
 - [Estruturas de repetição](#percorrendo-listas-com-estruturas-de-repetição)
 - [Aplicações práticas](#aplicações-práticas-das-listas-no-desenvolvimento-de-programas)
@@ -51,6 +53,23 @@ Existem diferentes comandos e formas de armazenar valores em listas, que vão mu
 | :---- | :---- |
 | .append | Adiciona o elemento ao final da lista. |
 | .insert(posição, elemento) | Adiciona o elemento a uma posição específica. |
+
+## Outros exemplos de estruturas de dados parecidas com as listas são:
+
+*  Tuplas: Estrutura de armazenamento que, assim como a lista, armazena múltiplos elementos, indicados por índices. Esse tipo de estrutura não apresenta flexibilidade, permanecendo imutável. No Python, uma tupla é frequentemente representada por parênteses.  
+*  Dicionário: Estrutura de armazenamento que armazena múltiplos valores, mas tem um funcionamento bastante distinto. Sua estrutura de armazenamento é desenvolvida através do par chave/valor, onde uma chave (elemento) tem um valor atribuído e, quando chamada, faz referência a esse valor. Por exemplo, ao criar uma chave "nome" em um dicionário, pode atribuir-lhe um nome específico, como "Luiza". Dessa forma, quando a chave for chamada, ela retornará o valor "Luíza".
+
+## Outros comandos usados:
+
+| Comando | Função |
+| :---- | :---- |
+| pop | Remove um item da lista, podendo ser um específico ou o último. |
+| remove | Usado para remover itens específicos. |
+| sort | Colocar a lista em ordem. |
+| len | Serve para saber o comprimento da lista. |
+| reverse | Quando usado em conjunto com o sort coloca a lista em ordem decrescente, como por exemplo: “lista.sort(reverse=True)”. |
+| count | Conta quantas vezes determinado elemento apareceu. |
+
 
 ## Acesso aos elementos de uma lista por índice
 
