@@ -1,0 +1,3 @@
+# Explicação dos exemplos
+
+> Os exemplos utilizados buscam mostrar as diversas formas de aplicação das estruturas condicionais. Os primeiros exemplos demonstram como esse conceito está presente no nosso cotidiano, facilitando a compreensão da lógica por trás das tomadas de decisão. Já os demais exemplos apresentam o uso dessas estruturas na linguagem Python, mostrando de forma simples como utilizar tanto as instruções if, elif e else quanto a estrutura match-case. Dessa forma, é possível relacionar situações do dia a dia com a programação, compreendendo como os computadores executam diferentes ações com base em condições previamente definidas.
