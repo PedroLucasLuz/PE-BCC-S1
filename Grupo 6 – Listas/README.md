@@ -2,18 +2,18 @@
 
 ## DESMISTIFICANDO A PROGRAMAÇÃO: APRENDENDO LÓGICA DE FORMA SIMPLES 💻
 
-### Informações Gerais📋
+### Informações Gerais
 
 * Instituição: Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).  
 * Curso: Bacharelado em Ciência da Computação  
 * Disciplina: Lógica de Programação   
 * Docente: Pedro Lucas Luz Costa 
 
-### Objetivo🎯
+### Objetivo
 
 O objetivo deste projeto de extensão é promover o aprendizado de conteúdos relacionados à lógica de programação, focando nas listas e suas funções, de maneira acessível, dinâmica e prática, contribuindo para o desenvolvimento do raciocínio lógico dos participantes e estimulando o interesse pela continuidade dos estudos na área da computação.   
 
-### Equipe e Distribuição de tarefas👥
+### Equipe e Distribuição de tarefas
 
 | Integrante | Responsabilidades |
 | :---- | :---- |
@@ -23,18 +23,20 @@ O objetivo deste projeto de extensão é promover o aprendizado de conteúdos re
 | **Kauan Alves de Araújo** | Produção de exemplos e exercícios; apresentação. |
 | **Lara Ingrid Rocha Almeida** | Pesquisa sobre o tema; elaboração do relatório. |
 
+### LINK DA AULA NO YOUTUBE:
+Aqui
 
-# Conteúdo📚
+# Conteúdo
 
-## 📑 Sumário
+## Sumário
 
-- [O que são listas?](#o-que-são-listas)
-- [Armazenamento de múltiplos valores](#armazenamento-de-múltiplos-valores)
-- [Outros exemplos de estruturas de dados parecidas com as listas são:](#Outros-exemplos-de-estruturas-de-dados-parecidas-com-as-listas-são:)
-- [Outros comandos usados:](#Outros-comandos-usados:)
-- [Acesso por índices](#acesso-aos-elementos-de-uma-lista-por-índice)
-- [Estruturas de repetição](#percorrendo-listas-com-estruturas-de-repetição)
-- [Aplicações práticas](#aplicações-práticas-das-listas-no-desenvolvimento-de-programas)
+- O que são listas?
+- Armazenamento de múltiplos valores
+- Outros exemplos de estruturas de dados parecidas com as listas são
+- Outros comandos usados
+- Acesso por índices
+- Estruturas de repetição
+- Aplicações práticas
 
 ## O que são listas?
 
@@ -54,12 +56,12 @@ Existem diferentes comandos e formas de armazenar valores em listas, que vão mu
 | .append | Adiciona o elemento ao final da lista. |
 | .insert(posição, elemento) | Adiciona o elemento a uma posição específica. |
 
-## Outros exemplos de estruturas de dados parecidas com as listas são:
+## Outros exemplos de estruturas de dados parecidas com as listas são
 
 *  Tuplas: Estrutura de armazenamento que, assim como a lista, armazena múltiplos elementos, indicados por índices. Esse tipo de estrutura não apresenta flexibilidade, permanecendo imutável. No Python, uma tupla é frequentemente representada por parênteses.  
 *  Dicionário: Estrutura de armazenamento que armazena múltiplos valores, mas tem um funcionamento bastante distinto. Sua estrutura de armazenamento é desenvolvida através do par chave/valor, onde uma chave (elemento) tem um valor atribuído e, quando chamada, faz referência a esse valor. Por exemplo, ao criar uma chave "nome" em um dicionário, pode atribuir-lhe um nome específico, como "Luiza". Dessa forma, quando a chave for chamada, ela retornará o valor "Luíza".
 
-## Outros comandos usados:
+## Outros comandos usados
 
 | Comando | Função |
 | :---- | :---- |
@@ -126,6 +128,6 @@ O WhatsApp é um aplicativo de conversas instantâneas que também suporta chama
 
 As listas são muito úteis para o funcionamento de diferentes plataformas, porém, muito além de aplicações para trabalho ou escuta de músicas, essas estruturas possuem um papel importante para a acessibilidade. Listas semânticas em HTML facilitam que os conteúdos sejam compreendidos por leitores de tela, que são ferramentas utilizadas por pessoas com deficiência visual. Dessa forma, os softwares avisam o usuário sobre a existência de uma lista e a quantidade exata de itens nela, oferecendo autonomia para navegar pelas informações. Além desse efeito social, essa estrutura colabora com o trabalho dos motores de busca, como o Google, que dão prioridade a sites bem organizados, posicionando-os melhor nos resultados de pesquisa.  
 
-## Conclusão 📌
+## Conclusão 
 
 Por fim, as listas são a base de conceitos que vão dos simples aos mais avançados na programação, permitindo aos desenvolvedores criar estruturas complexas como matrizes, pilhas e filas de dados. Dessa forma, elas são amplamente utilizadas em diferentes contextos na tecnologia. 
