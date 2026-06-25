@@ -18,8 +18,8 @@ O objetivo deste projeto de extensão é promover o aprendizado de conteúdos re
 | Integrante | Responsabilidades |
 | :---- | :---- |
 | **Alice Bandeira Ferreira de Sousa** | Gerenciamento e organização do GitHub; pesquisa sobre o tema. |
-| **Felipe Gabriel Alves de Oliveira** | Produção de exemplos e exercícios; apresentação. |
-| **José Henrique Ferreira da Silva** | Elaboração da apresentação. |
+| **Felipe Gabriel Alves de Oliveira** | Apresentação. |
+| **José Henrique Ferreira da Silva** | Elaboração do slide e edição do vídeo. |
 | **Kauan Alves de Araújo** | Produção de exemplos e exercícios; apresentação. |
 | **Lara Ingrid Rocha Almeida** | Pesquisa sobre o tema; elaboração do relatório. |
 
