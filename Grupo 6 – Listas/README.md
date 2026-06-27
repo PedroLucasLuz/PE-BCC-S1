@@ -18,13 +18,13 @@ O objetivo deste projeto de extensão é promover o aprendizado de conteúdos re
 | Integrante | Responsabilidades |
 | :---- | :---- |
 | **Alice Bandeira Ferreira de Sousa** | Gerenciamento e organização do GitHub; pesquisa sobre o tema. |
-| **Felipe Gabriel Alves de Oliveira** | Apresentação. |
+| **Felipe Gabriel Alves de Oliveira** | Apresentação e roteiro |
 | **José Henrique Ferreira da Silva** | Elaboração do slide e edição do vídeo. |
-| **Kauan Alves de Araújo** | Produção de exemplos e exercícios; apresentação. |
+| **Kauan Alves de Araújo** | Produção de exemplos e exercícios; apresentação e roteiro. |
 | **Lara Ingrid Rocha Almeida** | Pesquisa sobre o tema; elaboração do relatório. |
 
 ### LINK DA AULA NO YOUTUBE:
-Aqui
+[Desmistificando a programação: Aprendendo a lógica (Listas em Python)](https://youtu.be/wEcYK045v0o?si=GOoFq4qIOAAhRiZz)
 
 # Conteúdo
 
