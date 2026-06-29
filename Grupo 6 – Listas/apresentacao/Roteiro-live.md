@@ -122,7 +122,7 @@ As listas são fundamentais na programação porque:
 * Permitem diversas operações   
 * Estão presentes em praticamente todos os sistemas
 
-Nesse ponto Felipe finaliza sua explicação abrindo espaço para Kauan começar a apresentar sua parte.
+Dessa forma o integrante Felipe finaliza sua apresentação e agradece a atenção.
 
 ## Segunda Parte: Exemplificação e Resolução de exercícios com o integrante kauan  
 
