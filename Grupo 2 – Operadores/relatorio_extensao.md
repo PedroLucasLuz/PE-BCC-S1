@@ -5,53 +5,45 @@
 
 | Item                | Informação             |
 | ------------------- | ---------------------- |
-| Tema                |                        |
-| Integrantes         |                        |
+| Tema                | Operadores             |
+| Integrantes         | Pedro Vinicius, José Kauan, Rafael Lopes, Gilson Galdino|
 | Professor           | Prof. Pedro Lucas Luz  |
-| Período de execução |                        |
+| Período de execução | 10/06/26 -                        |
 
 ---
 
 # 1. Introdução
 
-## O que deve conter?
 
-A introdução deve contextualizar o projeto, explicar sua importância e apresentar o tema trabalhado pelo grupo.
+A lógica de programação é o conjunto de regras e técnicas usado para criar o algoritmo que instrui um computador a resolver problemas. Ela independe de linguagem e foca no desenvolvimento do raciocínio estruturado, organização e clareza para atingir objetivos específicos.  
+Dentro do âmbito da lógica geral, existe o conceito de Operadores, que são símbolos ou palavras-chave utilizados para manipular variáveis, comparar valores, realizar cálculos e tomar decisões, e esse conceito também é presente em lógica de programação.  
+Neste projeto de extensão, nossa equipe realizou um estudo sobre o tema "Operadores", no contexto da lógica de programação, apresentando materiais didáticos e exemplos práticos voltados a iniciantes.  
+O trabalho foi desenvolvido através de pesquisas, elaboração de exercícios, implementação de exemplos em código Python e apresentação em uma vídeo-aula aberta ao público no YouTube.
 
-Você deve responder perguntas como:
 
-* O que é o tema estudado?
-* Por que ele é importante?
-* Qual foi o objetivo da atividade?
-* Como o projeto foi desenvolvido?
-
-## Exemplo
-
-> A lógica de programação constitui a base para o desenvolvimento de sistemas computacionais. Entre seus conceitos fundamentais estão as estruturas condicionais, responsáveis pela tomada de decisões em programas. Neste projeto, nosso grupo estudou e apresentou o tema "Estruturas Condicionais", produzindo materiais educativos e exemplos práticos para iniciantes. O trabalho foi desenvolvido por meio de pesquisas, elaboração de exercícios, implementação de exemplos em código e apresentação em uma live educativa aberta ao público.
-
----
 
 # 2. Atividades Desenvolvidas
 
-## O que deve conter?
+### 2.1 Planejamento
 
-Descreva cronologicamente tudo o que foi realizado durante o projeto.
+Em um primeiro momento, após uma reunião realizada entre o professor orientador (Prof. Pedro Lucas Luz) e os líderes de cada equipe, foram repassadas as informações e orientações do projeto de extensão.
+Após isso, o grupo se reuniu e decidiu criar um grupo no WhatsApp para debater sobre o projeto e suas atribuições.  
+<center><img src="img-relatorio/grupozap.PNG" width="400"><br><small>Inclusive, grupo extremamente profissional kkkk</small></center>
+  
+<br>
+<br>
+Através do grupo, definimos as responsabilidades de cada membro da seguinte forma:
 
-Você pode dividir em etapas.
+| Membro              | Função                 | Ações          
+| ------------------- | ---------------------- | --------------                
+| Pedro Vinicius      | Líder                  | Gerenciar repositório da equipe no GitHub, Escrever o relatório de extensão final.
+| José Kauan          | Pesquisador            | Realizar a pesquisa de conteúdos do tema, Elaborar exemplos e exercícios.
+| Rafael Lopes        | Criador do Slide       | Elaborar apresentação em forma de slide, contendo todos os conteúdos abordados na pesquisa e exemplos.
+| Gilson Galdino      | Editor do Vídeo        | Escrever o roteiro completo da vídeo-aula, Editar o vídeo para postar no YouTube.  
 
-### Sugestão de estrutura
 
-#### 2.1 Planejamento
+Portanto, grupo optou por utilizar como ferramentas: GitHub para controle de versão, WhatsApp para planejamentos e discussões, Canva para produção do slide, além do CapCut e Alight Motion para edição do vídeo.
 
-Explique:
-
-* Como o grupo foi formado;
-* Como ocorreu a divisão das tarefas;
-* Quais ferramentas foram escolhidas.
-
-#### Exemplo
-
-> Inicialmente foi realizada uma reunião para definição das responsabilidades de cada integrante. O grupo optou por utilizar GitHub para controle de versão, Google Meet para reuniões remotas e Canva para produção dos slides.
 
 ---
 
