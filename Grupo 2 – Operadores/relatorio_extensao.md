@@ -60,6 +60,7 @@ Os demais integrantes do grupo leram os conteúdos da pesquisa para se aprofunda
 O slide foi criado a partir do roteiro do video, pelo Rafael Lopes, utilizando uma linguagem mais assertiva e direta, de fácil entendimento. Todo o processo de criação foi feito usando o Canva para estudantes.  
 Os exercícios e demonstrações em código, propostos por José Kauan, foram feitos baseados em exemplos da internet, e adaptados para um melhor entendimento didático.  
 Todo o processo de criação dos materiais foi revisado e aprovado pelos membros da equipe para uma melhor harmonia em relação ao vídeo, roteiro e slide.
+<center><img src="img-relatorio/slide.PNG" width="800"><br></center>
 
 
 ---
@@ -107,34 +108,20 @@ Os commits foram sendo realizados conforme as produções iam ocorrendo, garanti
 # 5. Considerações Finais
 
 
-As tarefas propostas foram realizados com sucesso. Essa experiencia contribuiu para o aprofundamento de conhecimentos relacionados a logica de programacao e o desenvolvimento de habilidades relacionadas a colaboracao, comunicacao e resolucao de conflitos.  
-Ademais, foi constatada a importancia de compartilhar conhecimentos e aprendizados relacionados a tecnologia com a comunidade, de forma a democratizar o acesso aos mesmos.
+As tarefas propostas foram realizadas com sucesso. Essa experiência contribuiu para o aprofundamento de conhecimentos relacionados à lógica de programação e o desenvolvimento de habilidades relacionadas à colaboração, comunicação e resolução de conflitos.  
+Ademais, foi constatada a importância de compartilhar conhecimentos e aprendizados relacionados à tecnologia com a comunidade, de forma a democratizar o acesso aos mesmos.
 
 
 ---
 
-# 6. Evidências
+# 6. Evidências e Anexos
 
-## O que deve conter?
 
-Inserir ou anexar:
-
-* Capturas de tela das reuniões;
-* Capturas de tela dos commits;
-* Fotos ou prints da apresentação;
-* Link do repositório GitHub;
-* Link da gravação da live.
 
 | Evidência        | Link |
 | ---------------- | ---- |
-| GitHub           |      |
-| Slides           |      |
-| Live             |      |
-| Pasta de imagens |      |
+| GitHub           | https://github.com/pedrovinicius-dias/Operadores_Python     |
+| Video             | https://www.youtube.com/watch?v=5iMeWS0fa7E     |
+
 
 ---
-
-# 7. Anexos (Opcional)
-
-Inserir imagens, gráficos, prints de código ou qualquer outro material complementar que ajude a documentar a execução do projeto.
-
