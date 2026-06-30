@@ -8,7 +8,7 @@
 | Tema                | Operadores             |
 | Integrantes         | Pedro Vinicius, José Kauan, Rafael Lopes, Gilson Galdino|
 | Professor           | Prof. Pedro Lucas Luz  |
-| Período de execução | 10/06/26 -                        |
+| Período de execução | 10/06/26 - 30/06/26                      |
 
 ---
 
@@ -49,114 +49,67 @@ Portanto, grupo optou por utilizar como ferramentas: GitHub para controle de ver
 
 #### 2.2 Pesquisa e Estudo
 
-Explique:
-
-* O que foi estudado;
-* Quais materiais foram utilizados;
-* Como o grupo aprofundou os conhecimentos.
-
-#### Exemplo
-
-> Foram consultados artigos, videoaulas e materiais didáticos sobre estruturas condicionais. Os integrantes realizaram estudos individuais e posteriormente compartilharam os conhecimentos adquiridos durante reuniões semanais.
+A pesquisa sobre conteúdo, realizada por José Kauan, foi feita consultando videoaulas e materiais didáticos sobre lógica de programação, sobretudo de operadores (aritméticos, atribuição, relacionais, lógicos, etc.).  
+Algumas fontes utilizadas foram a DIO, Autociência, ProgramaçãoBS, entre outros.  
+Os demais integrantes do grupo leram os conteúdos da pesquisa para se aprofundar, e servir de base para a criação dos slides e roteiro da videoaula.
 
 ---
 
 #### 2.3 Produção dos Materiais
 
-Explique:
+O slide foi criado a partir do roteiro do video, pelo Rafael Lopes, utilizando uma linguagem mais assertiva e direta, de fácil entendimento. Todo o processo de criação foi feito usando o Canva para estudantes.  
+Os exercícios e demonstrações em código, propostos por José Kauan, foram feitos baseados em exemplos da internet, e adaptados para um melhor entendimento didático.  
+Todo o processo de criação dos materiais foi revisado e aprovado pelos membros da equipe para uma melhor harmonia em relação ao vídeo, roteiro e slide.
 
-* Como os slides foram elaborados;
-* Como os exercícios foram criados;
-* Como os exemplos de código foram desenvolvidos.
-
-#### Exemplo
-
-> O grupo produziu uma apresentação contendo conceitos teóricos, analogias do cotidiano e exemplos em Python. Também foram elaborados exercícios para fixação do conteúdo e demonstrações práticas utilizando estruturas condicionais.
 
 ---
 
 #### 2.4 Preparação da Apresentação
 
-Explique:
 
-* Quantos ensaios foram realizados;
-* Como foi organizada a fala de cada integrante;
-* Quais ajustes foram necessários.
 
-#### Exemplo
-
-> Foram realizados dois encontros para ensaio da apresentação. Durante esses encontros foram feitos ajustes nos slides e definidos os momentos de participação de cada integrante.
+Após um debate entre os membros da equipe, foi definido que nosso meio de compartilhar os conhecimentos estudados com o público externo seria através de uma videoaula, com a participação de todos os integrantes, que seria publicada no YouTube. Gilson Galdino ficou responsável pela produção do vídeo (edição e roteiro).  
+Para a escrita do roteiro, foi usado como inspiração a dinâmica dos vídeos do criador de conteúdo Mateus 505, e foi feita uma base de apresentação separada em 4 tópicos para cada apresentador, usando as pesquisas sobre o tema como fonte.
 
 ---
 
-#### 2.5 Realização da Live
+#### 2.5 Gravação e Edição da Videoaula
 
-Explique:
 
-* Como ocorreu a apresentação;
-* Participação dos integrantes;
-* Interação com o público.
 
-#### Exemplo
-
-> A live foi realizada por meio do Google Meet e contou com a participação de todos os integrantes do grupo. Foram apresentados conceitos fundamentais, exemplos práticos e exercícios resolvidos, além do esclarecimento de dúvidas dos participantes.
+Quando o roteiro foi finalizado, cada membro foi responsável por gravar sua participação individualmente, seguindo as falas e indicações feitas pelo editor.  
+Depois das gravações, os arquivos brutos foram enviados para a edição, onde foram feitos cortes de erros e momentos de silêncio, músicas de fundo foram adicionadas, textos, memes e trechos do slide feito pela equipe, tudo em busca de tornar o vídeo mais dinâmico e agradável possível.
+<center><img src="img-relatorio/edicao1.jpg" width="400"><br><small>Errou, errou meu chat gpt</small></center>
 
 ---
 
 # 3. Resultados Obtidos
 
-## O que deve conter?
 
-Apresente os resultados alcançados pelo grupo.
-
-Você pode comentar:
-
-* Conhecimentos adquiridos;
-* Habilidades desenvolvidas;
-* Dificuldades encontradas;
-* Soluções adotadas.
-
-## Exemplo
-
-> O projeto permitiu ampliar os conhecimentos sobre estruturas condicionais e melhorar habilidades de comunicação e trabalho em equipe. A principal dificuldade encontrada foi simplificar conceitos técnicos para um público iniciante, desafio que foi superado por meio da utilização de exemplos do cotidiano e analogias.
+O projeto nos possibilitou ampliar os conhecimentos sobre Operadores, anteriormente adquiridos na disciplina de Lógica de Programação, e melhorar nossas habilidades de comunicação, organização de projeto e trabalho em equipe.  
+A principal dificuldade enfrentada foi a produção de um material original, que fosse didático e coerente com o conteúdo apresentado, mas que também tivesse nossa identidade e fosse suficiente para atender o público externo, desafio esse que foi superado por meio da divisão de tarefas entre a equipe, extraindo o melhor das capacidades de cada membro.
 
 ---
 
 # 4. Utilização do GitHub
 
-## O que deve conter?
 
-Descreva como o GitHub foi utilizado durante o projeto.
-
-Explique:
-
-* Organização do repositório;
-* Controle de versões;
-* Colaboração entre integrantes;
-* Registro dos commits.
-
-## Exemplo
-
-> O GitHub foi utilizado para armazenar os materiais produzidos pelo grupo e registrar a evolução do projeto. Cada integrante realizou commits relacionados às suas atividades, permitindo acompanhar as contribuições individuais e manter o histórico de alterações.
+O GitHub foi a principal ferramenta utilizada para armazenar os materiais de pesquisa produzidos pelo grupo e garantir o bom versionamento do projeto.  
+O membro Pedro Vinicius ficou responsável por organizar o repositório contendo os arquivos produzidos e realizar os commits seguindo os padrões indicados na instrução da atividade.  
+O repositório foi organizado através de pastas destinadas a cada parte do trabalho, onde os arquivos foram adicionados de forma harmônica e coerente com sua função no projeto.  
+<center><img src="img-relatorio/repositorio.PNG" width="800"><br><small>organização das pastas do repositório (ainda não finalizado)</small></center><br>
+Os commits foram sendo realizados conforme as produções iam ocorrendo, garantindo mais segurança ao trabalhar em passos futuros, e sendo possível visualizar as alterações feitas nos arquivos.
+<center><img src="img-relatorio/commits.PNG" width="800"><br><small>histórico de commits</small></center>
 
 ---
 
+
 # 5. Considerações Finais
 
-## O que deve conter?
 
-Apresente uma reflexão sobre a experiência vivenciada.
+As tarefas propostas foram realizados com sucesso. Essa experiencia contribuiu para o aprofundamento de conhecimentos relacionados a logica de programacao e o desenvolvimento de habilidades relacionadas a colaboracao, comunicacao e resolucao de conflitos.  
+Ademais, foi constatada a importancia de compartilhar conhecimentos e aprendizados relacionados a tecnologia com a comunidade, de forma a democratizar o acesso aos mesmos.
 
-Responda perguntas como:
-
-* O projeto atingiu os objetivos?
-* O que foi aprendido?
-* Qual a importância do tema?
-* Qual a contribuição da atividade para a formação acadêmica?
-
-## Exemplo
-
-> Os objetivos propostos foram alcançados com sucesso. A experiência contribuiu para o aprofundamento dos conhecimentos em lógica de programação e para o desenvolvimento de competências relacionadas à comunicação, colaboração e resolução de problemas. Além disso, o projeto demonstrou a importância de compartilhar conhecimentos tecnológicos de forma acessível para a comunidade.
 
 ---
 
